@@ -1,5 +1,5 @@
 # jira_hotkey
-a simple script for opening jira ticket in browser by simple entering its id into dialog window
+a simple script for opening jira ticket in browser by a hotkey
 
 Installation in Gnome:
 - place the script somewhere at your filesystem
